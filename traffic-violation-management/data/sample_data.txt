@@ -1,0 +1,12 @@
+# id|vehicle|driver|location|date|type|speed|limit|fine|payment
+# type: 0=Speeding 1=Red light 2=No helmet 3=No seatbelt 4=Illegal parking | payment: 0=Unpaid 1=Paid
+1|MH12AB1234|Rahul Patil|FC Road Pune|2026-08-02|0|82|60|3200.00|1
+2|MH14CD5678|Sneha Kulkarni|Pimpri Chowk|2026-09-12|1|0|0|1000.00|0
+3|MH12AB1234|Rahul Patil|Mumbai-Pune Expressway|2026-09-20|0|110|80|4000.00|0
+4|MH12EF9012|Amit Deshmukh|Nigdi Bhakti Shakti Chowk|2026-10-01|2|0|0|500.00|1
+5|MH14GH3456|Priya Joshi|Akurdi Station Road|2026-10-05|4|0|0|300.00|0
+6|MH12AB1234|Rahul Patil|Hinjewadi Phase 1|2026-10-10|1|0|0|1000.00|0
+7|MH20JK7788|Vikram Shinde|Aundh Road|2026-10-15|3|0|0|500.00|0
+8|MH12AB1234|Rahul Patil|University Circle|2026-10-28|2|0|0|1000.00|0
+9|MH14CD5678|Sneha Kulkarni|Wakad Bridge|2026-11-02|0|74|50|3400.00|0
+10|MH31LM1122|Neha Pawar|Chinchwad Link Road|2026-11-05|4|0|0|300.00|1
